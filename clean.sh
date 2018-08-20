@@ -1,1 +1,1 @@
-rm -rf config.xml ionic.config.json package.json *.bak .sourcemaps node_modules platforms plugins resources/android/icon resources/android/splash resources/ios/icon resources/ios/splash www
+rm -rf config.xml ionic.config.json package.json *.bak .sourcemaps node_modules platforms plugins resources/splash.png.md5 resources/android/icon.png.md5 resources/ios/icon.png.md5 resources/android/icon resources/android/splash resources/ios/icon resources/ios/splash www src/pages/home/home.ts

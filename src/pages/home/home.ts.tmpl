@@ -8,5 +8,5 @@ import { InAppBrowser } from '@ionic-native/in-app-browser';
 })
 export class HomePage {
   constructor(private iab: InAppBrowser) { }
-  browser = this.iab.create('https://opositafacil.com/', '_self');
+  browser = this.iab.create('%APP_URL%', '_self');
 }
